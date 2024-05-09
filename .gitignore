@@ -1,0 +1,11 @@
+# Editors
+.vscode
+.idea
+
+# Cache
+.DS_Store
+
+# Env
+.env*
+
+
